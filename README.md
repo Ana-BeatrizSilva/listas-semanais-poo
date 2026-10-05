@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Sobre o Projeto
+## Sobre o Repositório
 
 **Listas Semanais — Programação Orientada a Objetos** é um repositório acadêmico desenvolvido durante a graduação em **Análise e Desenvolvimento de Sistemas**, com o objetivo de registrar as atividades e projetos realizados ao longo da disciplina de Programação Orientada a Objetos (POO).
 
